@@ -1,10 +1,10 @@
 {
-    "name": "1inch-v2-contracts",
+    "name": "deta-v2-contracts",
     "version": "1.0.0",
-    "description": "1InchExchange core contracts",
+    "description": "detaExchange core contracts",
     "repository": {
         "type": "git",
-        "url": "git@github.com:1inch-exchange/1inch-v2-contracts.git"
+        "url": "git@github.com:deta-exchange/deta-v2-contracts.git"
     },
     "license": "MIT",
     "dependencies": {
